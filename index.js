@@ -1,4 +1,4 @@
-/*@2*/
+/*@Tamas*/
 /*Requested this 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/sha256.js"></script>  //password generation 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>	//encrypting the cash value whit the non-hash value of the password
